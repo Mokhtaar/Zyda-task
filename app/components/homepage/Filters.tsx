@@ -23,6 +23,7 @@ const Filters = ({
           .includes(searchKeyword.toLowerCase())
     );
     setDisplayedCountries(filterResult);
+    setDropdownOption("Filter by Region");
   }, [searchKeyword]);
 
   return (
