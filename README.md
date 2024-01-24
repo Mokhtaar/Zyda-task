@@ -1,4 +1,4 @@
-# Project Name
+# REST COUNTRIES API WITH COLOR THEME SWITCHER
 
 ## Description
 
