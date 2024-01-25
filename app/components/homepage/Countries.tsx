@@ -10,7 +10,6 @@ export default function Countries({ countries }: CountriesProps) {
   const [dispalyedCountries, setDisplayedCountries] = useState(
     countries.slice(0, 12)
   );
-
   const [countriesToSearch, setCountriesToSearch] = useState(
     countries.slice(0, 12)
   );

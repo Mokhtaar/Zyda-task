@@ -14,7 +14,7 @@ const LoadMore = ({
   const [displayCount, setDisplayCount] = useState(12);
 
   useEffect(() => {
-    if (inView && !searchKeyword && dropdownOption === "Filter by Region") {
+    if (inView) {
       setDisplayCount((prevCount) => prevCount + 12);
     }
   }, [inView, displayCount]);
