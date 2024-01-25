@@ -32,11 +32,6 @@ This project utilizes the Rest Countries API to create a web application that pr
 
 - **Switch Themes:** The application provides the ability to switch between themes for a customized visual experience.
 
-- **Country Details Page:**
-  - Click on a country to access its details page.
-  - The details page includes information about the selected country.
-  - Use the back button on the details page to return to the homepage.
-
 ## Getting Started
 
 1. Clone the repository.
